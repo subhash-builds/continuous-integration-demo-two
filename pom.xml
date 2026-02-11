@@ -6,9 +6,9 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>5c158c1e-35da-4613-99f2-e5b166594ea1</groupId>
+    <groupId>62894f6a-ef51-4d66-bc5b-6657ae24936c</groupId>
     <artifactId>kingslayer</artifactId>
-    <version>1.0.3</version>
+    <version>1.0.0</version>
     <packaging>mule-application</packaging>
 
     <name>kingslayer</name>
